@@ -1,0 +1,2 @@
+socket.tcp.port=8122
+socket.web.port=8889
